@@ -15,5 +15,8 @@
     "moviejar"
   ],
   "author": "Jacqueline Quintanilla",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
